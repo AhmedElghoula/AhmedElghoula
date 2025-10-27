@@ -63,19 +63,7 @@ Driven by curiosity and innovation, I enjoy bridging design and engineering — 
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelghoula&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
-## 🏗️ Featured Projects
-
-| 💡 Project | 🚀 Tech | 🔗 Link |
-|:------------|:--------|:--------|
-| 🌤️ **WeatherSphere** | React, TypeScript, OpenWeather API | [View Repo](https://github.com/ahmedelghoula/weathersphere) |
-| 🧱 **Architect AI Planner** | Next.js, Django, AI Integration | [View Repo](https://github.com/ahmedelghoula/architect-ai) |
-| 💬 **Realtime Chat App** | React, Firebase, Tailwind | [View Repo](https://github.com/ahmedelghoula/chat-app) |
-
-*(Replace the links above with your real project repos.)*
-
----
 
 ## 🌍 Connect With Me
 
