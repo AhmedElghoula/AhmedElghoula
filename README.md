@@ -1,90 +1,28 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#00bfff;">Ahmed Elghoula</span></h1>
-<h3 align="center">💻 Full-Stack Developer | 🚀 Passionate About Web Innovation | 🧠 Lifelong Learner</h3>
+![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
+<h1 align="center">Hi 👋, I'm Ahmed Elghoula</h1>
+<h3 align="center">A passionate full Stack Developer from Tunisia</h3>
 
-<p align="center">
-  <a href="https://github.com/ahmedelghoula">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Building+Modern+Web+Experiences;Frontend+%26+Backend+Craftsmanship;Clean+Code+%26+Scalable+Architecture;Innovation+Through+Technology"/>
-  </a>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedelghoula&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelghoula" /> </p>
+
+- 🌱 I’m currently learning **MERN**
+
+- 💬 Ask me about **ReactJS, JavaScript**
+
+- 📫 You can contact me at **ahmed.elghoula27@gmail.com**
+
+- ⚡ Fun fact **I love Travel and video games**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/elghoula-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elghoula-ahmed" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-## 🧠 About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedelghoula&show_icons=true&locale=en&layout=compact" alt="ahmedelghoula" /></p>
 
-I'm a **Full-Stack Developer** who loves building beautiful, fast, and reliable web applications.  
-Driven by curiosity and innovation, I enjoy bridging design and engineering — creating seamless user experiences with solid backend logic.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedelghoula&show_icons=true&locale=en" alt="ahmedelghoula" /></p>
 
-- 🔭 Currently focusing on **Next.js**, **React**, **TypeScript**, and **Django**
-- 🌱 Exploring **AI integrations** and **real-time web apps**
-- 🧩 Enjoy crafting **reusable components** and **clean architectures**
-- ⚡ Believer in teamwork, iteration, and clean code philosophy
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,python,django,firebase,html,css,js,git,github,vscode,linux" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20TypeScript-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend-Django%20%7C%20Python%20%7C%20REST%20API-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Database-SQLite%20%7C%20PostgreSQL%20%7C%20Firebase-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tools-Git%20%7C%20GitHub%20%7C%20VSCode%20%7C%20Linux-lightgrey?style=flat-square" />
-</p>
-
----
-
-## 🚀 What I'm Up To
-
-🧩 Working on:
-- ⚙️ Scalable component-driven architectures  
-- 📱 Progressive Web Apps (PWAs)  
-- 🔔 Real-time notifications and chat systems with Firebase  
-- 🎨 Smooth UX/UI experiences with Tailwind CSS  
-
-📚 Learning:
-- 🧠 Advanced design patterns in React & Next.js  
-- ☁️ Cloud services & deployment workflows  
-- 🤖 Integrating AI tools with frontend apps  
-
----
-
-## 📈 GitHub Insights
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ahmedelghoula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelghoula&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelghoula&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
-
-
-
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmedelghoula/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ahmedelghoula.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ahmedelghoula">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🧩 Motto
-
-> “The details are not the details. They make the design.” — Charles Eames
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedelghoula&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelghoula&" alt="ahmedelghoula" /></p>
