@@ -1,68 +1,102 @@
-<h1 align="center">👋 Hey there, I'm Ahmed Elghoula</h1>
+<!-- PROFILE HEADER -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#00bfff;">Ahmed Elghoula</span></h1>
+<h3 align="center">💻 Full-Stack Developer | 🚀 Passionate About Web Innovation | 🧠 Lifelong Learner</h3>
 
 <p align="center">
-  <em>💻 Software Engineer | 🌍 Passionate about Web Development & Innovation | 🚀 Always Learning</em>
+  <a href="https://github.com/ahmedelghoula">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Building+Modern+Web+Experiences;Frontend+%26+Backend+Craftsmanship;Clean+Code+%26+Scalable+Architecture;Innovation+Through+Technology"/>
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🧠 About Me
 
-- 🔭 Currently working on **modern web applications** using **React**, **Next.js**, and **Django**
-- 🌱 Constantly improving my skills in **TypeScript**, **Performance Optimization**, and **Scalable Architecture**
-- 💡 I enjoy solving complex problems and turning ideas into functional, elegant digital experiences
-- 💬 Ask me about **Frontend Architecture**, **React performance**, or **API integration**
-- ⚡ Fun fact: I believe clean code is as beautiful as great design ✨
+I'm a **Full-Stack Developer** who loves building beautiful, fast, and reliable web applications.  
+Driven by curiosity and innovation, I enjoy bridging design and engineering — creating seamless user experiences with solid backend logic.
+
+- 🔭 Currently focusing on **Next.js**, **React**, **TypeScript**, and **Django**
+- 🌱 Exploring **AI integrations** and **real-time web apps**
+- 🧩 Enjoy crafting **reusable components** and **clean architectures**
+- ⚡ Believer in teamwork, iteration, and clean code philosophy
 
 ---
 
-### 🧠 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,python,django,firebase,git,github,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,python,django,firebase,html,css,js,git,github,vscode,linux" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20TypeScript-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-Django%20%7C%20Python%20%7C%20REST%20API-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Database-SQLite%20%7C%20PostgreSQL%20%7C%20Firebase-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tools-Git%20%7C%20GitHub%20%7C%20VSCode%20%7C%20Linux-lightgrey?style=flat-square" />
 </p>
 
 ---
 
-### 🚀 What I’m Focusing On
+## 🚀 What I'm Up To
 
-- 🧩 Building **scalable UI components** and **modular architectures**
-- 🌐 Improving **PWA** & **API-driven** applications
-- 🧠 Exploring **AI integration** in web projects
+🧩 Working on:
+- ⚙️ Scalable component-driven architectures  
+- 📱 Progressive Web Apps (PWAs)  
+- 🔔 Real-time notifications and chat systems with Firebase  
+- 🎨 Smooth UX/UI experiences with Tailwind CSS  
+
+📚 Learning:
+- 🧠 Advanced design patterns in React & Next.js  
+- ☁️ Cloud services & deployment workflows  
+- 🤖 Integrating AI tools with frontend apps  
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Insights
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ahmedelghoula&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelghoula&theme=radical" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ahmedelghoula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelghoula&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelghoula&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🌍 Connect with Me
+## 🏗️ Featured Projects
+
+| 💡 Project | 🚀 Tech | 🔗 Link |
+|:------------|:--------|:--------|
+| 🌤️ **WeatherSphere** | React, TypeScript, OpenWeather API | [View Repo](https://github.com/ahmedelghoula/weathersphere) |
+| 🧱 **Architect AI Planner** | Next.js, Django, AI Integration | [View Repo](https://github.com/ahmedelghoula/architect-ai) |
+| 💬 **Realtime Chat App** | React, Firebase, Tailwind | [View Repo](https://github.com/ahmedelghoula/chat-app) |
+
+*(Replace the links above with your real project repos.)*
+
+---
+
+## 🌍 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmedelghoula/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ahmedelghoula.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ahmedelghoula">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💬 Motto
+## 🧩 Motto
 
-> “The best way to predict the future is to build it.” – Alan Kay
-
----
+> “The details are not the details. They make the design.” — Charles Eames
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedelghoula&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelghoula" />
+  <img src="https://komarev.com/ghpvc/?username=ahmedelghoula&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
